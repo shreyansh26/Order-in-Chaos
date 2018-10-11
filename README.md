@@ -8,11 +8,14 @@ This app aims to help people both before and after natural disasters.
 
 2. Heatmap generation with location of victims in the region to facilitate relief services.
 
-3. Image based search engine for missing people.
+3. Image based search engine for missing people. 
 
 4. Analysis of Twitter stream to gain analytics on the situation.
 
 5. Health centres cum rescue stations suggestions in the affected areas.
+
+6. With the notifications mentioned in (1), the app aims to give investment tips relevant to the industries affected by the disaster.
+
 
 ## Team Memebers
 * [Shreyansh Singh](https://github.com/shreyansh26)
