@@ -1,4 +1,4 @@
-# Order-in-Chaos
+# Order in Chaos
 
 This app aims to help people both before and after natural disasters.
 
