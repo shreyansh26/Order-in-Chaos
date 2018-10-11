@@ -18,6 +18,15 @@ This app aims to help people both before and after natural disasters.
 
 6. Along with the notifications mentioned in (1), the app aims to give investment tips relevant to the industries affected by the disaster.
 
+## Technology to be used -
+1. Django backend
+2. Azure services
+3. Twitter API
+4. Tensorflow
+5. Keras
+6. BNP Paribas OBP API
+7. Geolocation API
+8. Twilio API
 
 ## Team Memebers
 * [Shreyansh Singh](https://github.com/shreyansh26)
