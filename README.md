@@ -1,6 +1,6 @@
 # Order-in-Chaos
 
-Our app aims to provide cover both before and after the disaster. 
+This app aims to help people both before and after natural disasters.
 
 ## The features include -
 
